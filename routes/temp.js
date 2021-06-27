@@ -1,5 +1,4 @@
 var express = require('express');
-let clientAdapter = require('../modules/clientAdapter') ;
 let firebaseSession = require('../modules/firebase_session.js') ;
 var router = express.Router() ;
 
